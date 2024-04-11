@@ -12,6 +12,8 @@ A pausable interactive visualizer that uses [Reagraph](https://github.com/reaviz
 
 Input a custom set of nodes and edges, select an algorithm, run the visualizer, pause or interact.
 
+[demo](https://4genso.github.io/graph-algorithm-visualizer/)
+
 ## Getting Started <a name = "getting_started"></a>
 
 ### Installing
